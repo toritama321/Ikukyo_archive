@@ -1,0 +1,98 @@
+[
+  {
+    "id": "book1-1",
+    "updateat": "2026/5/19",
+    "name": "宇治谷咲子",
+    "kana": "うじたにさきこ",
+    "owner": "暁闇",
+    "originalCharacter": "宇佐見蓮子",
+    "wikiurl": "https://dic.pixiv.net/a/%E5%AE%87%E6%B2%BB%E8%B0%B7%E5%92%B2%E5%AD%90",
+    "basic": {
+      "gender": "女",
+      "age": "正確な年齢は不明",
+      "birthday": "5月1日",
+      "height": "155cm",
+      "weight": "秘密"
+    },
+    "personal": {
+      "job": "",
+      "hobbiesAndSkills": "未知の探求",
+      "firstPerson": "わたし",
+      "secondPerson": "あなた",
+      "thirdPerson": "",
+      "likes": "甘いもの、犬、未知",
+      "dislikes": "虫、爬虫類"
+    },
+    "world": {
+      "species": "人間",
+      "alias": [
+        ""
+      ],
+      "abilities": "時と場所を把握できる程度の能力",
+      "mainLocations": [
+        ""
+      ],
+      "dangerLevel": "",
+      "humanFriendliness": "",
+      "songs": [
+        ""
+      ]
+    },
+    "details": [
+      {
+        "title": "",
+        "body": [
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "id": "book1-2",
+    "updateat": "",
+    "name": "",
+    "kana": "",
+    "owner": "",
+    "originalCharacter": "マエリベリー・ハーン",
+    "wikiurl": "",
+    "basic": {
+      "gender": "",
+      "age": "",
+      "birthday": "",
+      "height": "",
+      "weight": ""
+    },
+    "personal": {
+      "job": "",
+      "hobbiesAndSkills": "",
+      "firstPerson": "",
+      "secondPerson": "",
+      "thirdPerson": "",
+      "likes": "",
+      "dislikes": ""
+    },
+    "world": {
+      "species": "",
+      "alias": [
+        ""
+      ],
+      "abilities": "",
+      "mainLocations": [
+        ""
+      ],
+      "dangerLevel": "",
+      "humanFriendliness": "",
+      "songs": [
+        ""
+      ]
+    },
+    "details": [
+      {
+        "title": "",
+        "body": [
+          ""
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": "book9-1",
+    "updateat": "2026/5/19",
+    "name": "誘衣日孁",
+    "kana": "いざなぎのひるめ",
+    "owner": "きうい",
+    "originalCharacter": "綿月豊姫",
+    "wikiurl": "https://dic.pixiv.net/a/%E8%AA%98%E8%A1%A3%E6%97%A5%E5%AD%81",
+    "basic": {
+      "gender": "",
+      "age": "",
+      "birthday": "",
+      "height": "",
+      "weight": ""
+    },
+    "personal": {
+      "job": "",
+      "hobbiesAndSkills": "",
+      "firstPerson": "",
+      "secondPerson": "",
+      "thirdPerson": "",
+      "likes": "",
+      "dislikes": ""
+    },
+    "world": {
+      "species": "月人",
+      "alias": [
+        "太陽の巫女"
+      ],
+      "abilities": "穢れを洗い流す程度の能力",
+      "mainLocations": [
+        "月都"
+      ],
+      "dangerLevel": "高",
+      "humanFriendliness": "中",
+      "songs": [
+        ""
+      ]
+    },
+    "details": [
+      {
+        "title": "容姿",
+        "body": [
+          "髪の毛はぱっつんでとても長い薄めの茶髪で、橙のメッシュがある。目は橙と紫のオッドアイ。巫女服を着ている。"
+        ]
+      },
+      {
+        "title": "性格",
+        "body": [
+          "礼儀正しく、喜怒哀楽の感情が激しめ。あとシスコン。戦闘狂なので、戦いの時は楽しそうにしてる。"
+        ]
+      },
+      {
+        "title": "チャームカード",
+        "body": [
+          "日符「天照らす神前」<br>日符「太陽の光示す道」<br>「天への導き-大日孁-」"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "book9-2",
+    "updateat": "2026/5/19",
+    "name": "誘衣星夜",
+    "kana": "いざなぎのせいよ",
+    "owner": "バナ丸",
+    "originalCharacter": "綿月依姫",
+    "wikiurl": "https://dic.pixiv.net/a/%E8%AA%98%E8%A1%A3%E6%98%9F%E5%A4%9C",
+    "basic": {
+      "gender": "女",
+      "age": "不明",
+      "birthday": "1月1日",
+      "height": "157cm",
+      "weight": ""
+    },
+    "personal": {
+      "job": "",
+      "hobbiesAndSkills": "歌",
+      "firstPerson": "僕",
+      "secondPerson": "君",
+      "thirdPerson": "",
+      "likes": "なんでも",
+      "dislikes": "穢れ、熱いもの"
+    },
+    "world": {
+      "species": "月人",
+      "alias": [
+        ""
+      ],
+      "abilities": "神霊に憑依する程度の能力",
+      "mainLocations": [
+        "月都"
+      ],
+      "dangerLevel": "極高",
+      "humanFriendliness": "高",
+      "songs": [
+        "月のペンダント"
+      ]
+    },
+    "details": [
+      {
+        "title": "",
+        "body": [
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "id": "book9-3",
+    "updateat": "",
+    "name": "",
+    "kana": "",
+    "owner": "",
+    "originalCharacter": "レイセン",
+    "wikiurl": "",
+
+    "basic": {
+      "gender": "",
+      "age": "",
+      "birthday": "",
+      "height": "",
+      "weight": "-"
+    },
+
+    "personal": {
+      "job": "",
+      "hobbiesAndSkills": "",
+      "firstPerson": "",
+      "secondPerson": "",
+      "thirdPerson": "",
+      "likes": "",
+      "dislikes": ""
+    },
+
+    "world": {
+      "species": "",
+      "alias": [""],
+      "abilities": "",
+      "mainLocations": [""],
+      "dangerLevel": "",
+      "humanFriendliness": "",
+      "songs": [""]
+    },
+
+    "details": [
+      {
+        "title": "",
+        "body": [""]
+      }
+    ]
+  },
+  {
+    "id": "book9-4",
+    "updateat": "2026/5/19",
+    "name": "黎鵞",
+    "kana": "れいが",
+    "owner": "バナ丸",
+    "originalCharacter": "嫦娥",
+    "wikiurl": "",
+    "basic": {
+      "gender": "女",
+      "age": "不明",
+      "birthday": "12月29日",
+      "height": "157cm",
+      "weight": ""
+    },
+    "personal": {
+      "job": "",
+      "hobbiesAndSkills": "ない",
+      "firstPerson": "私",
+      "secondPerson": "君、貴方",
+      "thirdPerson": "",
+      "likes": "ない",
+      "dislikes": "ない"
+    },
+    "world": {
+      "species": "女神",
+      "alias": [
+        ""
+      ],
+      "abilities": "人格、精神を操る程度の能力",
+      "mainLocations": [
+        "月都（幽閉中）"
+      ],
+      "dangerLevel": "",
+      "humanFriendliness": "",
+      "songs": [
+        ""
+      ]
+    },
+    "details": [
+      {
+        "title": "",
+        "body": [
+          ""
+        ]
+      }
+    ]
+  }
+]

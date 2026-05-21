@@ -1,0 +1,46 @@
+[
+  {
+    "id": "main12_5-1",
+    "updateat": "",
+    "name": "",
+    "kana": "",
+    "owner": "",
+    "originalCharacter": "姫海棠はたて",
+    "wikiurl": "",
+
+    "basic": {
+      "gender": "",
+      "age": "",
+      "birthday": "",
+      "height": "",
+      "weight": "-"
+    },
+
+    "personal": {
+      "job": "",
+      "hobbiesAndSkills": "",
+      "firstPerson": "",
+      "secondPerson": "",
+      "thirdPerson": "",
+      "likes": "",
+      "dislikes": ""
+    },
+
+    "world": {
+      "species": "",
+      "alias": [""],
+      "abilities": "",
+      "mainLocations": [""],
+      "dangerLevel": "",
+      "humanFriendliness": "",
+      "songs": [""]
+    },
+
+    "details": [
+      {
+        "title": "",
+        "body": [""]
+      }
+    ]
+  }
+]

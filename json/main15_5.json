@@ -1,0 +1,104 @@
+[
+  {
+    "id": "main15_5-1",
+    "updateat": "2026/5/17",
+    "name": "空雪神百",
+    "kana": "そらゆきみわと",
+    "owner": "かまぼこ",
+    "originalCharacter": "依神女苑",
+    "wikiurl": "https://dic.pixiv.net/a/%E7%A9%BA%E9%9B%AA%E7%A5%9E%E7%99%BE",
+    "basic": {
+      "gender": "",
+      "age": "",
+      "birthday": "",
+      "height": "",
+      "weight": ""
+    },
+    "personal": {
+      "job": "",
+      "hobbiesAndSkills": "",
+      "firstPerson": "",
+      "secondPerson": "",
+      "thirdPerson": "",
+      "likes": "",
+      "dislikes": ""
+    },
+    "world": {
+      "species": "亡霊",
+      "alias": [
+        ""
+      ],
+      "abilities": "過去を操る程度の能力",
+      "mainLocations": [
+        ""
+      ],
+      "dangerLevel": "",
+      "humanFriendliness": "",
+      "songs": [
+        ""
+      ]
+    },
+    "details": [
+      {
+        "title": "",
+        "body": [
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "id": "main15_5-2",
+    "updateat": "2026/5/17",
+    "name": "空雪神音",
+    "kana": "そらゆきこうね",
+    "owner": "リレナドール",
+    "originalCharacter": "依神紫苑",
+    "wikiurl": "https://dic.pixiv.net/a/%E7%A9%BA%E9%9B%AA%E7%A5%9E%E9%9F%B3",
+    "basic": {
+      "gender": "女",
+      "age": "137歳",
+      "birthday": "1月25日",
+      "height": "155cm",
+      "weight": "40kg"
+    },
+    "personal": {
+      "job": "",
+      "hobbiesAndSkills": "絵描き、何もしない",
+      "firstPerson": "私",
+      "secondPerson": "貴方、君",
+      "thirdPerson": "",
+      "likes": "柿",
+      "dislikes": "林檎"
+    },
+    "world": {
+      "species": "亡霊(元人間)",
+      "alias": [
+        ""
+      ],
+      "abilities": "時を戻す程度の能力",
+      "mainLocations": [
+        "不明"
+      ],
+      "dangerLevel": "極高",
+      "humanFriendliness": "極低",
+      "songs": [
+        ""
+      ]
+    },
+    "details": [
+      {
+        "title": "容姿",
+        "body": [
+          "長い黒髪で、1部だけ赤髪になっている。そして、その赤髪の部分で片目を隠している。片目を隠しているのは彼女の過去に関係している。目はオッドアイで、隠れていないほうが黄色、隠れているほうが紫色。襟が付いた青い服を着ている。袖の部分は白色。飾りの着いた白い靴下に、茶色の靴を履いている。"
+        ]
+      },
+      {
+        "title": "性格",
+        "body": [
+          "とてもネガティブで、怒ると怖い。サイコパス。"
+        ]
+      }
+    ]
+  }
+]

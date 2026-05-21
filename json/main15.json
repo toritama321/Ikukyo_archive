@@ -1,0 +1,397 @@
+[
+  {
+    "id": "main15-1",
+    "updateat": "",
+    "name": "",
+    "kana": "",
+    "owner": "",
+    "originalCharacter": "清蘭",
+    "wikiurl": "",
+
+    "basic": {
+      "gender": "",
+      "age": "",
+      "birthday": "",
+      "height": "",
+      "weight": "-"
+    },
+
+    "personal": {
+      "job": "",
+      "hobbiesAndSkills": "",
+      "firstPerson": "",
+      "secondPerson": "",
+      "thirdPerson": "",
+      "likes": "",
+      "dislikes": ""
+    },
+
+    "world": {
+      "species": "",
+      "alias": [""],
+      "abilities": "",
+      "mainLocations": [""],
+      "dangerLevel": "",
+      "humanFriendliness": "",
+      "songs": [""]
+    },
+
+    "details": [
+      {
+        "title": "",
+        "body": [""]
+      }
+    ]
+  },
+  {
+    "id": "main15-2",
+    "updateat": "",
+    "name": "",
+    "kana": "",
+    "owner": "",
+    "originalCharacter": "鈴瑚",
+    "wikiurl": "",
+
+    "basic": {
+      "gender": "",
+      "age": "",
+      "birthday": "",
+      "height": "",
+      "weight": "-"
+    },
+
+    "personal": {
+      "job": "",
+      "hobbiesAndSkills": "",
+      "firstPerson": "",
+      "secondPerson": "",
+      "thirdPerson": "",
+      "likes": "",
+      "dislikes": ""
+    },
+
+    "world": {
+      "species": "",
+      "alias": [""],
+      "abilities": "",
+      "mainLocations": [""],
+      "dangerLevel": "",
+      "humanFriendliness": "",
+      "songs": [""]
+    },
+
+    "details": [
+      {
+        "title": "",
+        "body": [""]
+      }
+    ]
+  },
+  {
+    "id": "main15-3",
+    "updateat": "2026/5/15",
+    "name": "メア・マーヴル",
+    "kana": "めあ・まーゔる",
+    "owner": "えびしぐれ",
+    "originalCharacter": "ドレミー・スイート",
+    "wikiurl": "https://dic.pixiv.net/a/%E3%83%A1%E3%82%A2%E3%83%BB%E3%83%9E%E3%83%BC%E3%83%B4%E3%83%AB",
+    "basic": {
+      "gender": "女",
+      "age": "不明",
+      "birthday": "6月10日",
+      "height": "150cm",
+      "weight": "0？（実体無し）"
+    },
+    "personal": {
+      "job": "",
+      "hobbiesAndSkills": "夢集め",
+      "firstPerson": "私",
+      "secondPerson": "あなた",
+      "thirdPerson": "",
+      "likes": "夢",
+      "dislikes": "身分の高い人、火"
+    },
+    "world": {
+      "species": "妖怪(獏？)",
+      "alias": [
+        "夢の案内者"
+      ],
+      "abilities": "夢へ導く程度の能力、眠りへ誘う程度の能力",
+      "mainLocations": [
+        "夢の世界",
+        "華胥通路"
+      ],
+      "dangerLevel": "中",
+      "humanFriendliness": "低",
+      "songs": [
+        "夢間牢獄 〜eternal dream"
+      ]
+    },
+    "details": [
+      {
+        "title": "容姿",
+        "body": [
+          "円錐型のナイトキャップを浅めに被っているため、金髪は腰の辺りまである程長いのだが分かりにくい。黒いノースリーブのハイネック、薄紫色と薄桃色の飾りがついたケープとスカートを着用している。手足には包帯が巻かれている。"
+        ]
+      },
+      {
+        "title": "性格",
+        "body": [
+          "おっとりしているが、どこか影がある。勘が鋭く、彼女の前で隠し事をするのはかなり難しい。表には出さないが、排他的で傲慢な月の民を快く思っていないため異変時に月の民に協力する事を渋っていた。",
+          "秘密裏にある約束をしているらしく、初月には強くあたらない。"
+        ]
+      },
+      {
+        "title": "能力",
+        "body": [
+          "#### 夢へ導く程度の能力",
+          "対象の見るべき夢へ導く能力。間違うことなく正確な夢へ導けるが、彼女の意思次第では本来見るべきではない夢を見せることも出来る。",
+          "#### 眠りへ誘う程度の能力",
+          "文字通り対象を眠らせる能力。眠りの深さはある程度操作できるらしい。"
+        ]
+      },
+      {
+        "title": "華胥通路",
+        "body": [
+          "夢の世界を繋ぐ通路であり、異空郷の多くの人妖が眠る夜はここを通り見回りを行っている。かなり広く、幾つにも分かれているため、妖精に手伝わせることも多い。"
+        ]
+      },
+      {
+        "title": "その他",
+        "body": [
+          "かつて人間だった彼女は火事により肉体の大部分を失ってしまったらしく、その影響で火を嫌っている。火に関わる夢を見る対象へは近付きたがらず、妖精に巡回させている。"
+        ]
+      },
+      {
+        "title": "チャームカード",
+        "body": [
+          "夢符｢ポべートールの悪夢｣<br>悪符｢メアの金縛り｣<br>悪符｢ナイトメアワールド｣<br>夢符｢弾幕予知夢｣<br>夢符｢弾幕代償夢｣<br>神符｢モルペウスの神託｣<br>誘符｢眠り羊の数え唄｣<br>覚醒｢現世と夢現の境界線｣<br>刻符｢夢源の終焉｣<br>｢夢の案内人｣<br>｢胡蝶舞う夢幻世界｣"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "main15-4",
+    "updateat": "",
+    "name": "",
+    "kana": "",
+    "owner": "",
+    "originalCharacter": "稀神サグメ",
+    "wikiurl": "",
+
+    "basic": {
+      "gender": "",
+      "age": "",
+      "birthday": "",
+      "height": "",
+      "weight": "-"
+    },
+
+    "personal": {
+      "job": "",
+      "hobbiesAndSkills": "",
+      "firstPerson": "",
+      "secondPerson": "",
+      "thirdPerson": "",
+      "likes": "",
+      "dislikes": ""
+    },
+
+    "world": {
+      "species": "",
+      "alias": [""],
+      "abilities": "",
+      "mainLocations": [""],
+      "dangerLevel": "",
+      "humanFriendliness": "",
+      "songs": [""]
+    },
+
+    "details": [
+      {
+        "title": "",
+        "body": [""]
+      }
+    ]
+  },
+  {
+    "id": "main15-5",
+    "updateat": "2026/5/15",
+    "name": "ユーフォルビア",
+    "kana": "ゆーふぉるびあ",
+    "owner": "しとど",
+    "originalCharacter": "クラウンピース",
+    "wikiurl": "https://dic.pixiv.net/a/%E3%83%A6%E3%83%BC%E3%83%95%E3%82%A9%E3%83%AB%E3%83%93%E3%82%A2%28%E7%95%B0%E7%A9%BA%E9%83%B7%29",
+    "basic": {
+      "gender": "不明",
+      "age": "不明",
+      "birthday": "1月27日",
+      "height": "161cm",
+      "weight": "不明"
+    },
+    "personal": {
+      "job": "",
+      "hobbiesAndSkills": "悪戯、目玉をコレクションすること",
+      "firstPerson": "僕",
+      "secondPerson": "君、あんた、お前",
+      "thirdPerson": "",
+      "likes": "綺麗な瞳、悪戯、弾幕勝負",
+      "dislikes": "くすんだ瞳、ヤミーの説教"
+    },
+    "world": {
+      "species": "悪魔",
+      "alias": [
+        "瞳の奥の狂気(奈)",
+        "気狂いの道化師(自)"
+      ],
+      "abilities": "目を見たものを狂わせる程度の能力",
+      "mainLocations": [
+        "地獄",
+        "東雲神社周辺"
+      ],
+      "dangerLevel": "高",
+      "humanFriendliness": "中",
+      "songs": [
+        "メリークラウンパレード"
+      ]
+    },
+    "details": [
+      {
+        "title": "概要",
+        "body": [
+          "**「Come on, Let's start a crazy show!(さあ、狂ったショーを始めよう！)」**",
+          "サリーの部下である悪魔の一人。部下である悪魔たちの中でも群を抜いて強い力を持ち、実力主義の地獄で上位に組み込むほどの強さで、その実力はサリーにも一目を置かれている。そのため部下の悪魔たちよりもサリーからの信頼は厚く、悪魔たちの中で唯一サリーの側に立つことを許されている。**綺麗な瞳が好き**で、地獄に迷い込んだ自機組たちの目を自身の目玉コレクションに加えようと戦いを仕掛けてくる。上記の通りサリーからの信頼は厚いものの、その性格と地獄で頻繁に悪戯をしていた為、地上探索も含め、頭を冷やすという目的の元現在は地上にある東雲神社に居候中である。"
+        ]
+      },
+      {
+        "title": "容姿",
+        "body": [
+          "ピエロのような帽子を被っており、右側は星柄のはいった青で左側はピンク色、それぞれの先端にはぼんぼんのようなものがついてる。髪は紫色で、後ろで赤いリボンを使い二つをわけて結っている。瞳の色は真紅色。耳はエルフ耳のようになっている。茶色のボタンがついた黒いケープを上に羽織り、赤い大きなリボンを首からさげている。下には帽子と同じ色のズボンを履いており、黒いストッキングをつけている。後には不思議な形をした黒いマントのようなものを着ており、その先端には黄色い台座のようなものの上にグラデーションのかかった炎が揺らめいている。ギザギザした装飾のついたつま先の曲がった紫色の靴を履いている。"
+        ]
+      },
+      {
+        "title": "性格",
+        "body": [
+          "悪戯好きな悪魔。自由奔放で束縛を嫌う。その為、自身の主人であるサリー以外に指図されることが大嫌い。男勝りな性格で、強気な上に悪知恵がよく働く狡猾さも持ち合わせており、以外と物事をよく考え頭もきれる。常識人のような立ち振る舞いをしているが、少々気の触れたところもある。勝負ごとの好きな戦闘狂でもある。"
+        ]
+      },
+      {
+        "title": "能力",
+        "body": [
+          "#### 目を見たものを狂わせる程度の能力",
+          "彼女の目を見たものをは忽ち精神が乱れ、正常な考え方ができなくなってしまう恐ろしい能力。目を見た時間で効果の効き目も変わり、長時間見てしまった場合は手遅れになりかねない。その他にも判断を狂わせたり、ある物事に夢中にさせたりすることもできる。"
+        ]
+      },
+      {
+        "title": "チャームカード",
+        "body": [
+          "#### {{work:main15.nameshort1}}",
+          "悪行「デビルズウィスパー」<br>悪行「ベネフィックブレイク」<br>悪符「マレフィックエビル」<br>悪魔「トランスサタニアンイービル」<br>黙獄「ヘイズパントマイム」<br>狂符「ルナティックデイズ」<br>狂符「クレイジーデーモン」<br>獄符「ダークサイド・インフェルノ」<br>狂獄「マッドレイヤー・インフェルノ」",
+          "#### {{work:main16_5.nameshort1}}",
+          "獄符「悪夢のメリーゴーランド」<br>悪符「トラップルナエビル」<br>夢魔「クラウンサーカスナイトメア」"
+        ]
+      },
+      {
+        "title": "人間関係",
+        "body": [
+          "#### サリー・アンヘル",
+          "主従関係であり、ユーフォルビアの主人。ユーフォルビアはサリーのことを「**マスター**」と呼び、敬語を使っている。指図を嫌うユーフォルビアではあるが、唯一素直に言うことを聞く相手であり、忠誠心も高い方ではある。お互いの実力を信用しているよう。",
+          "#### 緋羅",
+          "自身の主人の友人という関係。顔見知りであり、緋羅に対しても敬語を使い「**ご友人様**」と呼んでいる。緋羅の実力と恐ろしさはユーフォルビアも薄々感じていたようで、自身の主人の友人であることも相まって、あまり怒らせないよう礼儀正しく接している。"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "main15-6",
+    "updateat": "2026/5/15",
+    "name": "緋羅",
+    "kana": "あから",
+    "owner": "えびしぐれ",
+    "originalCharacter": "純狐",
+    "wikiurl": "",
+    "basic": {
+      "gender": "女",
+      "age": "？？？",
+      "birthday": "9月5日",
+      "height": "160cm",
+      "weight": "50kg"
+    },
+    "personal": {
+      "job": "",
+      "hobbiesAndSkills": "特になし",
+      "firstPerson": "私、我",
+      "secondPerson": "お前、貴方",
+      "thirdPerson": "",
+      "likes": "花",
+      "dislikes": "人間、太陽、月"
+    },
+    "world": {
+      "species": "神霊？",
+      "alias": [
+        ""
+      ],
+      "abilities": "風化する程度の能力",
+      "mainLocations": [
+        "地獄"
+      ],
+      "dangerLevel": "",
+      "humanFriendliness": "",
+      "songs": [
+        ""
+      ]
+    },
+    "details": [
+      {
+        "title": "",
+        "body": [
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "id": "main15-7",
+    "updateat": "",
+    "name": "",
+    "kana": "",
+    "owner": "",
+    "originalCharacter": "ヘカーティア・ラピスラズリ",
+    "wikiurl": "",
+
+    "basic": {
+      "gender": "",
+      "age": "",
+      "birthday": "",
+      "height": "",
+      "weight": "-"
+    },
+
+    "personal": {
+      "job": "",
+      "hobbiesAndSkills": "",
+      "firstPerson": "",
+      "secondPerson": "",
+      "thirdPerson": "",
+      "likes": "",
+      "dislikes": ""
+    },
+
+    "world": {
+      "species": "",
+      "alias": [""],
+      "abilities": "",
+      "mainLocations": [""],
+      "dangerLevel": "",
+      "humanFriendliness": "",
+      "songs": [""]
+    },
+
+    "details": [
+      {
+        "title": "",
+        "body": [""]
+      }
+    ]
+  }
+]

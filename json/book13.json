@@ -1,0 +1,51 @@
+[
+  {
+    "id": "book13-1",
+    "updateat": "2026/5/19",
+    "name": "更科紅葉",
+    "kana": "さらしなもみじ",
+    "owner": "えびしぐれ",
+    "originalCharacter": "茨木華扇",
+    "wikiurl": "",
+    "basic": {
+      "gender": "女",
+      "age": "？？？",
+      "birthday": "9月10日",
+      "height": "163cm",
+      "weight": "49kg"
+    },
+    "personal": {
+      "job": "",
+      "hobbiesAndSkills": "旅",
+      "firstPerson": "私",
+      "secondPerson": "あなた",
+      "thirdPerson": "あの人、彼女（彼）",
+      "likes": "酒、食べ物、甘味",
+      "dislikes": "禁酒、断食、刀"
+    },
+    "world": {
+      "species": "仙人（鬼）",
+      "alias": [
+        ""
+      ],
+      "abilities": "奪う程度の能力",
+      "mainLocations": [
+        "物怪ノ御山の何処か"
+      ],
+      "dangerLevel": "",
+      "humanFriendliness": "",
+      "songs": [
+        ""
+      ],
+      "originalsourse":"紅葉伝説"
+    },
+    "details": [
+      {
+        "title": "",
+        "body": [
+          ""
+        ]
+      }
+    ]
+  }
+]

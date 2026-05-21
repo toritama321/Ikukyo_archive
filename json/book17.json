@@ -1,0 +1,51 @@
+[
+  {
+    "id": "book17-1",
+    "updateat": "2026/5/19",
+    "name": "崇徳皇杜魔",
+    "kana": "すとくおうどま",
+    "owner": "がんも",
+    "originalCharacter": "宮出口瑞霊",
+    "wikiurl": "",
+    "basic": {
+      "gender": "女",
+      "age": "",
+      "birthday": "",
+      "height": "166cm",
+      "weight": ""
+    },
+    "personal": {
+      "job": "",
+      "hobbiesAndSkills": "和歌を詠むこと（怨霊になる前の趣味）",
+      "firstPerson": "私、吾",
+      "secondPerson": "貴様、お前、役職呼び、名前呼び",
+      "thirdPerson": "アイツ、あれ",
+      "likes": "不明（強いて言うならよい和歌）",
+      "dislikes": "人間（特に権力を振りかざすもの）、偽善者"
+    },
+    "world": {
+      "species": "怨霊",
+      "alias": [
+        "破獄王",
+        "破獄の大魔縁"
+      ],
+      "abilities": "神体を介し憑依する程度の能力",
+      "mainLocations": [
+        "不明"
+      ],
+      "dangerLevel": "極高",
+      "humanFriendliness": "皆無",
+      "songs": [
+        ""
+      ]
+    },
+    "details": [
+      {
+        "title": "",
+        "body": [
+          ""
+        ]
+      }
+    ]
+  }
+]

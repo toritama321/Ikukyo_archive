@@ -1,0 +1,51 @@
+[
+  {
+    "id": "main13_5-1",
+    "updateat": "2026/5/14",
+    "name": "黒塚こづゆ",
+    "kana": "くろづかこづゆ",
+    "owner": "きくも",
+    "originalCharacter": "秦こころ",
+    "wikiurl": "",
+    "basic": {
+      "gender": "女",
+      "age": "？",
+      "birthday": "5月5日",
+      "height": "137cm",
+      "weight": "28kg"
+    },
+    "personal": {
+      "job": "",
+      "hobbiesAndSkills": "能楽、料理",
+      "firstPerson": "私",
+      "secondPerson": "アナタ、お前",
+      "thirdPerson": "あの子、あの人",
+      "likes": "能楽、子供、和菓子、お肉ならなんでも",
+      "dislikes": "占い、雷、野菜（山菜は好き）"
+    },
+    "world": {
+      "species": "妖怪",
+      "alias": [
+        ""
+      ],
+      "abilities": "言葉を奪い取る程度の能力",
+      "mainLocations": [
+        "龍霊廟近くにある岩屋（関に能力で建ててもらった）"
+      ],
+      "dangerLevel": "極高",
+      "humanFriendliness": "中",
+      "songs": [
+        ""
+      ],
+      "originalsourse":"安達ヶ原の鬼婆"
+    },
+    "details": [
+      {
+        "title": "",
+        "body": [
+          ""
+        ]
+      }
+    ]
+  }
+]

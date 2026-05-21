@@ -1,0 +1,481 @@
+[
+    {
+        "id":"old1",
+        "namefull":"東西夢幻葬 〜 The line between dreams and oblivion.",
+        "nameshort1":"東西夢幻葬",
+        "nameshort2":"夢幻葬",
+        "nameshort3":"夢",
+        "original":"靈異伝",
+        "replace":"{{work:old1.nameshort1}}"
+    },
+    {
+        "id":"old2",
+        "namefull":"東西魔星霄 〜 Sealed and forbidden magic.",
+        "nameshort1":"東西魔星霄",
+        "nameshort2":"魔星霄",
+        "nameshort3":"魔",
+        "original":"封魔録",
+        "replace":"{{work:old2.nameshort1}}"
+    },
+    {
+        "id":"old3",
+        "namefull":"東西夢蝶暦 〜 Dreaming of a fleeting prayer.",
+        "nameshort1":"東西夢蝶暦",
+        "nameshort2":"夢蝶暦",
+        "nameshort3":"夢",
+        "original":"夢時空",
+        "replace":"{{work:old3.nameshort1}}"
+    },
+    {
+        "id":"old4",
+        "namefull":"東西異空郷 〜 Contraindicated fantasy.",
+        "nameshort1":"東西異空郷",
+        "nameshort2":"異空郷",
+        "nameshort3":"異",
+        "original":"幻想郷",
+        "replace":"{{work:old4.nameshort1}}"
+    },
+    {
+        "id":"old5",
+        "namefull":"東西想世綺 〜 Book of Genesis of the Devil.",
+        "nameshort1":"東西想世綺",
+        "nameshort2":"想世綺",
+        "nameshort3":"想",
+        "original":"怪綺談",
+        "replace":"{{work:old5.nameshort1}}"
+    },
+
+
+
+
+
+    {
+        "id":"main6",
+        "namefull":"東西滄溟郷 ～ Red rose devil.",
+        "nameshort1":"東西滄溟郷",
+        "nameshort2":"滄溟郷",
+        "nameshort3":"滄",
+        "original":"紅魔郷",
+        "replace":"{{work:main6.nameshort1}}"
+    },
+    {
+        "id":"main7",
+        "namefull":"東西蓮華道 〜 In search of spring.",
+        "nameshort1":"東西蓮華道",
+        "nameshort2":"蓮華道",
+        "nameshort3":"蓮",
+        "original":"妖々夢",
+        "replace":"{{work:main7.nameshort1}}"
+    },
+    {
+        "id":"main7_5",
+        "namefull":"東西童妖牙 〜 Feast and power.",
+        "nameshort1":"東西童妖牙",
+        "nameshort2":"童妖牙",
+        "nameshort3":"童",
+        "original":"萃夢想",
+        "replace":"{{work:main7_5.nameshort1}}"
+    },
+    {
+        "id":"main8",
+        "namefull":"東西隠林伝 〜 Hidden madness.",
+        "nameshort1":"東西隠林伝",
+        "nameshort2":"隠林伝",
+        "nameshort3":"隠",
+        "original":"永夜抄",
+        "replace":"{{work:main8.nameshort1}}"
+    },
+    {
+        "id":"main9",
+        "namefull":"東西彼岸魂 〜 Until the day when the flowers bloom.",
+        "nameshort1":"東西彼岸魂",
+        "nameshort2":"彼岸魂",
+        "nameshort3":"彼",
+        "original":"花映塚",
+        "replace":"{{work:main9.nameshort1}}"
+    },
+    {
+        "id":"main9_5",
+        "namefull":"東西文奇譚 〜 to release the shutter.",
+        "nameshort1":"東西文奇譚",
+        "nameshort2":"文奇譚",
+        "nameshort3":"文",
+        "original":"文花帖",
+        "replace":"{{work:main9_5.nameshort1}}"
+    },
+    {
+        "id":"main10",
+        "namefull":"東西湖神山 〜 Autumn lake.",
+        "nameshort1":"東西湖神山",
+        "nameshort2":"湖神山",
+        "nameshort3":"湖",
+        "original":"風神録",
+        "replace":"{{work:main10.nameshort1}}"
+    },
+    {
+        "id":"main10_5",
+        "namefull":"東西東天紅 〜 To the world of the sky.",
+        "nameshort1":"東西東天紅",
+        "nameshort2":"東天紅",
+        "nameshort3":"東",
+        "original":"緋想天",
+        "replace":"{{work:main10_5.nameshort1}}"
+    },
+    {
+        "id":"main11",
+        "namefull":"東西地塊殿 〜 Eyes of melancholy sealed in the abyss.",
+        "nameshort1":"東西地塊殿",
+        "nameshort2":"地塊殿",
+        "nameshort3":"地",
+        "original":"地霊殿",
+        "replace":"{{work:main11.nameshort1}}"
+    },
+    {
+        "id":"main12",
+        "namefull":"東西魏翔船 〜 Ship chasing a dream.",
+        "nameshort1":"東西魏翔船",
+        "nameshort2":"魏翔船",
+        "nameshort3":"魏",
+        "original":"星蓮船",
+        "replace":"{{work:main12.nameshort1}}"
+    },
+    {
+        "id":"main12_3",
+        "namefull":"東西無頂色天 〜 超巨大パペットの影を追え",
+        "nameshort1":"東西無頂色天",
+        "nameshort2":"無頂色天",
+        "nameshort3":"無",
+        "original":"非想天則",
+        "replace":"{{work:main12_3.nameshort1}}"
+    },
+    {
+        "id":"main12_5",
+        "namefull":"ミステリアスインシデント 〜 東西文奇譚",
+        "nameshort1":"ミステリアスインシデント",
+        "nameshort2":"ミステリアスインシデント",
+        "nameshort3":"MI",
+        "original":"ダブルスポイラー",
+        "replace":"{{work:main12_5.nameshort1}}"
+    },
+    {
+        "id":"main12_8",
+        "namefull":"妖精大激戦 〜 東西自然精",
+        "nameshort1":"妖精大激戦",
+        "nameshort2":"妖精大激戦",
+        "nameshort3":"妖",
+        "original":"妖精大戦争",
+        "replace":"{{work:main12_8.nameshort1}}"
+    },
+    {
+        "id":"main13",
+        "namefull":"東西龍霊廟 〜 At the end of desire.",
+        "nameshort1":"東西龍霊廟",
+        "nameshort2":"龍霊廟",
+        "nameshort3":"龍",
+        "original":"神霊廟",
+        "replace":"{{work:main13.nameshort1}}"
+    },
+    {
+        "id":"main13_5",
+        "namefull":"東西感呪論 〜 Whereabouts of emotions and disasters.",
+        "nameshort1":"東西感呪論",
+        "nameshort2":"感呪論",
+        "nameshort3":"感",
+        "original":"心綺楼",
+        "replace":"{{work:main13_5.nameshort1}}"
+    },
+    {
+        "id":"main14",
+        "namefull":"東西城土封 〜 Small courage and big step.",
+        "nameshort1":"東西城土封",
+        "nameshort2":"城土封",
+        "nameshort3":"城",
+        "original":"輝針城",
+        "replace":"{{work:main14.nameshort1}}"
+    },
+    {
+        "id":"main14_3",
+        "namefull":"弾幕レジスタンス 〜 Bizarre charm card.",
+        "nameshort1":"弾幕レジスタンス",
+        "nameshort2":"弾幕レジスタンス",
+        "nameshort3":"弾幕レジスタンス",
+        "original":"弾幕アマノジャク",
+        "replace":"{{work:main14_3.nameshort1}}"
+    },
+    {
+        "id":"main14_3-2",
+        "namefull":"弾幕レジスタンス ゴールドバーゲン",
+        "nameshort1":"弾幕レジスタンス ゴールドバーゲン",
+        "nameshort2":"ゴールドバーゲン",
+        "nameshort3":"ゴールドバーゲン",
+        "original":"弾幕アマノジャク ゴールドラッシュ",
+        "replace":"{{work:main14_3-2.nameshort1}}"
+    },
+    {
+        "id":"main14_5",
+        "namefull":"東西怪奇録 〜 Urban legends and occult girls.",
+        "nameshort1":"東西怪奇録",
+        "nameshort2":"怪奇録",
+        "nameshort3":"怪",
+        "original":"深秘録",
+        "replace":"{{work:main14_5.nameshort1}}"
+    },
+    {
+        "id":"main15",
+        "namefull":"東西奈烙華 〜 Paradise at the bottom of hell.",
+        "nameshort1":"東西奈烙華",
+        "nameshort2":"奈烙華",
+        "nameshort3":"奈",
+        "original":"紺珠伝",
+        "replace":"{{work:main15.nameshort1}}"
+    },
+    {
+        "id":"main15_5",
+        "namefull":"東西憑依談 〜 Between the past and the present.",
+        "nameshort1":"東西憑依談",
+        "nameshort2":"憑依談",
+        "nameshort3":"憑",
+        "original":"憑依華",
+        "replace":"{{work:main15_5.nameshort1}}"
+    },
+    {
+        "id":"main16",
+        "namefull":"東西創天崩 〜 The changing of the seasons.",
+        "nameshort1":"東西創天崩",
+        "nameshort2":"創天崩",
+        "nameshort3":"創",
+        "original":"天空璋",
+        "replace":"{{work:main16.nameshort1}}"
+    },
+    {
+        "id":"main16_5",
+        "namefull":"異想ドリームフォトグラフィー 〜 A journey of memory.",
+        "nameshort1":"異想ドリームフォトグラフィー",
+        "nameshort2":"異想ドリームフォトグラフィー",
+        "nameshort3":"異想",
+        "original":"秘封ナイトメアダイアリー",
+        "replace":"{{work:main16_5.nameshort1}}"
+    },
+    {
+        "id":"main17",
+        "namefull":"東西幻獣鬼 〜 Cunning beast and dark hell.",
+        "nameshort1":"東西幻獣鬼",
+        "nameshort2":"幻獣鬼",
+        "nameshort3":"幻",
+        "original":"鬼形獣",
+        "replace":"{{work:main17.nameshort1}}"
+    },
+    {
+        "id":"main17_5",
+        "namefull":"剛猛奇聞 〜 沈殿した幽愁泥黎",
+        "nameshort1":"剛猛奇聞",
+        "nameshort2":"剛猛奇聞",
+        "nameshort3":"剛",
+        "original":"剛欲異聞",
+        "replace":"{{work:main17_5.nameshort1}}"
+    },
+    {
+        "id":"main18",
+        "namefull":"東西霓晶窟 〜 Suspicious cave and Rainbow Monster.",
+        "nameshort1":"東西霓晶窟",
+        "nameshort2":"霓晶窟",
+        "nameshort3":"霓",
+        "original":"虹龍洞",
+        "replace":"{{work:main18.nameshort1}}"
+    },
+    {
+        "id":"main18_5",
+        "namefull":"バレットフリーク達の闇市場 〜 Underground Economy.",
+        "nameshort1":"バレットフリーク達の闇市場",
+        "nameshort2":"バレットフリーク",
+        "nameshort3":"バレットフリーク",
+        "original":"バレットフィリア達の闇市場",
+        "replace":"{{work:main18_5.nameshort1}}"
+    },
+    {
+        "id":"main19",
+        "namefull":"東西嶺獣苑 〜 Meeting of ghosts in love with dreams.",
+        "nameshort1":"東西嶺獣苑",
+        "nameshort2":"嶺獣苑",
+        "nameshort3":"嶺",
+        "original":"獣王園",
+        "replace":"{{work:main19.nameshort1}}"
+    },
+    {
+        "id":"main20",
+        "namefull":"（錦上京）",
+        "nameshort1":"（錦上京）",
+        "nameshort2":"（錦上京）",
+        "nameshort3":"（錦上京）",
+        "original":"錦上京",
+        "replace":"{{work:main20.nameshort1}}"
+    },
+
+
+
+
+
+    {
+        "id":"book1",
+        "namefull":"異想妄幻倶楽部",
+        "nameshort1":"異想倶楽部",
+        "nameshort2":"異想倶楽部",
+        "nameshort3":"異想倶楽部",
+        "original":"秘封倶楽部",
+        "replace":"{{work:book1.nameshort1}}"
+    },
+    {
+        "id":"book2",
+        "namefull":"東西影空堂 〜 Curiosity to tear the shadow.",
+        "nameshort1":"東西影空堂",
+        "nameshort2":"影空堂",
+        "nameshort3":"影",
+        "original":"香霖堂",
+        "replace":"{{work:book2.nameshort1}}"
+    },
+    {
+        "id":"book3",
+        "namefull":"東西自然精 〜 Reverberation of small nature.",
+        "nameshort1":"東西自然精 第1部",
+        "nameshort2":"自然精 第1部",
+        "nameshort3":"自1",
+        "original":"三月精 第1部",
+        "replace":"{{work:book3.nameshort1}}"
+    },
+    {
+        "id":"book4",
+        "namefull":"東西自然精 〜 Starry night sky light.",
+        "nameshort1":"東西自然精 第2部",
+        "nameshort2":"自然精 第2部",
+        "nameshort3":"自2",
+        "original":"三月精 第2部",
+        "replace":"{{work:book4.nameshort1}}"
+    },
+    {
+        "id":"book5",
+        "namefull":"東西自然精 〜 The snowy afternoon sky.",
+        "nameshort1":"東西自然精 第3部",
+        "nameshort2":"自然精 第3部",
+        "nameshort3":"自3",
+        "original":"三月精 第3部",
+        "replace":"{{work:book5.nameshort1}}"
+    },
+    {
+        "id":"book6",
+        "namefull":"東西自然精 〜 In the nature where cherry blossoms dance.",
+        "nameshort1":"東西自然精 第4部",
+        "nameshort2":"自然精 第4部",
+        "nameshort3":"自4",
+        "original":"三月精 第4部",
+        "replace":"{{work:book6.nameshort1}}"
+    },
+    {
+        "id":"book7",
+        "namefull":"東西文奇譚 〜 Mountain road with autumn leaves.",
+        "nameshort1":"東西文奇譚 書籍",
+        "nameshort2":"文奇譚 書籍",
+        "nameshort3":"文 書籍",
+        "original":"文花帖 書籍",
+        "replace":"{{work:book7.nameshort1}}"
+    },
+    {
+        "id":"book8",
+        "namefull":"東西異空書記 〜 Those who spell illusions.",
+        "nameshort1":"東西異空書記",
+        "nameshort2":"異空書記",
+        "nameshort3":"異空書記",
+        "original":"求聞史紀",
+        "replace":"{{work:book8.nameshort1}}"
+    },
+    {
+        "id":"book9",
+        "namefull":"東西月暈輝 〜 The entrance to the moon and its back.",
+        "nameshort1":"東西月暈輝 漫画",
+        "nameshort2":"月暈輝 漫画",
+        "nameshort3":"月 漫画",
+        "original":"儚月抄 漫画",
+        "replace":"{{work:book9.nameshort1}}"
+    },
+    {
+        "id":"book10",
+        "namefull":"東西月暈輝 〜 The middle of the moon and its illusion.",
+        "nameshort1":"東西月暈輝 小説",
+        "nameshort2":"月暈輝 小説",
+        "nameshort3":"月 小説",
+        "original":"儚月抄 小説",
+        "replace":"{{work:book10.nameshort1}}"
+    },
+    {
+        "id":"book11",
+        "namefull":"東西月暈輝 〜Moon exit and its reality.",
+        "nameshort1":"東西月暈輝 4コマ",
+        "nameshort2":"月暈輝 4コマ",
+        "nameshort3":"月 4コマ",
+        "original":"儚月抄 4コマ",
+        "replace":"{{work:book11.nameshort1}}"
+    },
+    {
+        "id":"book12",
+        "namefull":"The Grimoire of Yuzutu",
+        "nameshort1":"グリモワールオブユウヅツ",
+        "nameshort2":"グリモワールオブユウヅツ",
+        "nameshort3":"グリモワールオブユウヅツ",
+        "original":"The Grimoire of Marisa",
+        "replace":"{{work:book12.nameshort1}}"
+    },
+    {
+        "id":"book13",
+        "namefull":"東西紅葉科 〜 Autumn leaf hunting demon.",
+        "nameshort1":"東西紅葉科",
+        "nameshort2":"紅葉科",
+        "nameshort3":"紅",
+        "original":"茨歌仙",
+        "replace":"{{work:book13.nameshort1}}"
+    },
+    {
+        "id":"book14",
+        "namefull":"東西万華秘伝 〜 Kaleidoscope and secret fairy tale.",
+        "nameshort1":"東西万華秘伝",
+        "nameshort2":"万華秘伝",
+        "nameshort3":"万",
+        "original":"求聞口授",
+        "replace":"{{work:book14.nameshort1}}"
+    },
+    {
+        "id":"book15",
+        "namefull":"東西藤牒巻 〜 Bookstore where wisteria blooms.",
+        "nameshort1":"東西藤牒巻",
+        "nameshort2":"藤牒巻",
+        "nameshort3":"藤",
+        "original":"鈴奈庵",
+        "replace":"{{work:book15.nameshort1}}"
+    },
+    {
+        "id":"book16",
+        "namefull":"The Grimoire of Ujitani 異想倶楽部幻想撮影記録",
+        "nameshort1":"グリモワールオブウジタニ",
+        "nameshort2":"グリモワールオブウジタニ",
+        "nameshort3":"グリモワールオブウジタニ",
+        "original":"The Grimoire of Usami",
+        "replace":"{{work:book16.nameshort1}}"
+    },
+    {
+        "id":"book17",
+        "namefull":"東西智怪妖伝 変則探偵あやめ",
+        "nameshort1":"東西智怪妖伝",
+        "nameshort2":"智怪妖伝",
+        "nameshort3":"智",
+        "original":"東方智霊奇伝",
+        "replace":"{{work:book17.nameshort1}}"
+    },
+    {
+        "id":"book18",
+        "namefull":"東西宵酔楽 〜 空想とソーマの酒盃",
+        "nameshort1":"東西宵酔楽",
+        "nameshort2":"宵酔楽",
+        "nameshort3":"宵",
+        "original":"東方酔蝶華",
+        "replace":"{{work:book18.nameshort1}}"
+    }
+    
+]

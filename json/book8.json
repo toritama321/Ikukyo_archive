@@ -1,0 +1,50 @@
+[
+  {
+    "id": "book8-1",
+    "updateat": "2026/5/19",
+    "name": "景里清良",
+    "kana": "かげさときよら",
+    "owner": "えびしぐれ",
+    "originalCharacter": "稗田阿求",
+    "wikiurl": "",
+    "basic": {
+      "gender": "女",
+      "age": "15歳",
+      "birthday": "10月10日",
+      "height": "155cm",
+      "weight": "45kg"
+    },
+    "personal": {
+      "job": "",
+      "hobbiesAndSkills": "読書、折り紙",
+      "firstPerson": "私",
+      "secondPerson": "あなた",
+      "thirdPerson": "あの人",
+      "likes": "本、雑貨、和食",
+      "dislikes": "堅苦しいもの"
+    },
+    "world": {
+      "species": "人間",
+      "alias": [
+        ""
+      ],
+      "abilities": "災いを予見する程度の能力",
+      "mainLocations": [
+        "聚落"
+      ],
+      "dangerLevel": "",
+      "humanFriendliness": "",
+      "songs": [
+        ""
+      ]
+    },
+    "details": [
+      {
+        "title": "",
+        "body": [
+          ""
+        ]
+      }
+    ]
+  }
+]

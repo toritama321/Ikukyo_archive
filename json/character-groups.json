@@ -1,0 +1,217 @@
+[
+  {
+    "id": "hero",
+    "name": "主人公",
+    "file": "json/hero.json"
+  },
+  {
+    "id": "main6",
+    "name": "紅魔郷",
+    "file": "json/main6.json"
+  },
+  {
+    "id": "main7",
+    "name": "妖々夢",
+    "file": "json/main7.json"
+  },
+  {
+    "id": "main7_5",
+    "name": "萃夢想",
+    "file": "json/main7_5.json"
+  },
+  {
+    "id": "main8",
+    "name": "永夜抄",
+    "file": "json/main8.json"
+  },
+  {
+    "id": "main9",
+    "name": "花映塚",
+    "file": "json/main9.json"
+  },
+  {
+    "id": "main10",
+    "name": "風神録",
+    "file": "json/main10.json"
+  },
+  {
+    "id": "main10_5",
+    "name": "緋想天",
+    "file": "json/main10_5.json"
+  },
+  {
+    "id": "main11",
+    "name": "地霊殿",
+    "file": "json/main11.json"
+  },
+  {
+    "id": "main12_3",
+    "name": "非想天則",
+    "file": "json/main12_3.json"
+  },
+  {
+    "id": "main12_5",
+    "name": "ダブルスポイラー",
+    "file": "json/main12_5.json"
+  },
+  {
+    "id": "main12",
+    "name": "星蓮船",
+    "file": "json/main12.json"
+  },
+  {
+    "id": "main13",
+    "name": "神霊廟",
+    "file": "json/main13.json"
+  },
+  {
+    "id": "main13_5",
+    "name": "心綺楼",
+    "file": "json/main13_5.json"
+  },
+  {
+    "id": "main14",
+    "name": "輝針城",
+    "file": "json/main14.json"
+  },
+  {
+    "id": "main14_5",
+    "name": "深秘録",
+    "file": "json/main14_5.json"
+  },
+  {
+    "id": "main15",
+    "name": "紺珠伝",
+    "file": "json/main15.json"
+  },
+  {
+    "id": "main15_5",
+    "name": "憑依華",
+    "file": "json/main15_5.json"
+  },
+  {
+    "id": "main16",
+    "name": "天空璋",
+    "file": "json/main16.json"
+  },
+  {
+    "id": "main17",
+    "name": "鬼形獣",
+    "file": "json/main17.json"
+  },
+  {
+    "id": "main17_5",
+    "name": "剛欲異聞",
+    "file": "json/main17_5.json"
+  },
+  {
+    "id": "main18",
+    "name": "虹龍洞",
+    "file": "json/main18.json"
+  },
+  {
+    "id": "main19",
+    "name": "獣王園",
+    "file": "json/main19.json"
+  },
+  {
+    "id": "main20",
+    "name": "錦上京",
+    "file": "json/main20.json"
+  },
+
+
+
+
+
+  {
+    "id": "book1",
+    "name": "秘封倶楽部",
+    "file": "json/book1.json"
+  },
+  {
+    "id": "book2",
+    "name": "香霖堂",
+    "file": "json/book2.json"
+  },
+  {
+    "id": "book3",
+    "name": "三月精",
+    "file": "json/book3.json"
+  },
+  {
+    "id": "book8",
+    "name": "求聞史紀",
+    "file": "json/book8.json"
+  },
+  {
+    "id": "book9",
+    "name": "儚月抄",
+    "file": "json/book9.json"
+  },
+  {
+    "id": "book13",
+    "name": "茨歌仙",
+    "file": "json/book13.json"
+  },
+  {
+    "id": "book15",
+    "name": "鈴奈庵",
+    "file": "json/book15.json"
+  },
+  {
+    "id": "book17",
+    "name": "智霊奇伝",
+    "file": "json/book17.json"
+  },
+  {
+    "id": "book18",
+    "name": "酔蝶華",
+    "file": "json/book18.json"
+  },
+
+
+
+
+
+  {
+    "id": "other1",
+    "name": "設定のみ",
+    "file": "json/other1.json"
+  },
+  {
+    "id": "other2",
+    "name": "オリジナル",
+    "file": "json/other2.json"
+  },
+
+
+
+
+
+  {
+    "id": "old1",
+    "name": "靈異伝",
+    "file": "json/old1.json"
+  },
+  {
+    "id": "old2",
+    "name": "封魔録",
+    "file": "json/old2.json"
+  },
+  {
+    "id": "old3",
+    "name": "夢時空",
+    "file": "json/old3.json"
+  },
+  {
+    "id": "old4",
+    "name": "幻想郷",
+    "file": "json/old4.json"
+  },
+  {
+    "id": "old5",
+    "name": "怪綺談",
+    "file": "json/old5.json"
+  }
+]

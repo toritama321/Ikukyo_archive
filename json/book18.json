@@ -1,0 +1,56 @@
+[
+  {
+    "id": "book18-1",
+    "updateat": "2026/5/19",
+    "name": "彼仕錡舞霄",
+    "kana": "かさぎまよい",
+    "owner": "リレナドール",
+    "originalCharacter": "奥野田美宵",
+    "wikiurl": "https://dic.pixiv.net/a/%E5%BD%BC%E4%BB%95%E9%8C%A1%E8%88%9E%E9%9C%84",
+    "basic": {
+      "gender": "女",
+      "age": "23歳",
+      "birthday": "1月20日",
+      "height": "164cm",
+      "weight": "秘密"
+    },
+    "personal": {
+      "job": "和菓子屋の経営者",
+      "hobbiesAndSkills": "かるた",
+      "firstPerson": "私",
+      "secondPerson": "○○さん",
+      "thirdPerson": "",
+      "likes": "植物、昔の遊び",
+      "dislikes": "怪奇現象、戦い"
+    },
+    "world": {
+      "species": "人間",
+      "alias": [
+        ""
+      ],
+      "abilities": "人を笑顔にする、記憶を維持する程度の能力",
+      "mainLocations": [
+        "聚落"
+      ],
+      "dangerLevel": "",
+      "humanFriendliness": "",
+      "songs": [
+        ""
+      ]
+    },
+    "details": [
+      {
+        "title": "容姿",
+        "body": [
+          "薄緑色の腰まである髪に、橙色の髪飾りをつけている。服は薄橙色の、ふんわりとした洋服。靴は黒色。"
+        ]
+      },
+      {
+        "title": "性格",
+        "body": [
+          "基本的に優しく、怒ることは滅多にない。たまに、意味不明な言動をすることがある。"
+        ]
+      }
+    ]
+  }
+]

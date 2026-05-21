@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/help.css">
+  <script src="js/main.js" defer></script>
+  <title>記法ヘルプ</title>
+</head>
+
+<body>
+  <div class="mobile-header">
+    <div class="mobile-title">異空郷</div>
+    <button class="menu-button" id="menuButton" aria-label="メニューを開く">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+  </div>
+
+  <div class="overlay" id="overlay"></div>
+
+  <div class="site">
+    <aside class="sidebar" id="sidebar">
+      <div class="site-title">異空郷<br>アーカイブ</div>
+
+      <nav class="nav">
+        <a href="index.html">概要</a>
+        <a href="character.html">キャラクター</a>
+        <a href="abilities.html">能力一覧</a>
+        <a href="originalsourse.html">元ネタ一覧</a>
+        <a href="places.html">地名</a>
+        <a href="works.html">作品</a>
+        <a href="links.html">関連リンク</a>
+        <a href="about.html">当サイトについて</a>
+      </nav>
+    </aside>
+
+    <main class="main">
+        <header class="hero">
+            <p class="page-label">Edit Help</p>
+            <h1>編集ヘルプ</h1>
+        </header>
+
+        <div class="content help-content">
+            <section class="content-card">
+                <h2>キャラ情報編集について</h2>
+                <p>編集フォームで編集した後、JSONファイルを出力し、GitHub上のファイルを編集する必要があります。</p>
+                <p>出力したJSONファイルと同名のファイルを、jsonフォルダ内から探し、内容をコピペで丸ごと張り替えてください。</p>
+                <p>または、<a href="https://forms.gle/ENXHnTidLVp1pawB6" target="_blank" rel="noopener noreferrer">
+                    ココ</a>から編集申請をしてください。</p>
+            </section>
+
+            <hr>
+
+            <section class="content-card">
+                <h2>基本ルール</h2>
+                <p>編集フォームでは、通常の文章をそのまま入力できます。</p>
+                <p>一部の欄では、Markdown記法を使うことで、太字・箇条書き・リンクなどを表示できます。</p>
+                <p>「二つ名」「主な活動場所」など、1行につき1項目と書いてある欄は、1項目ごとに改行してください。</p>
+            </section>
+
+            <section class="content-card">
+                <h2>改行と段落</h2>
+
+                <div class="help-example">
+                    <div>
+                    <h3>入力例</h3>
+                    <pre><code>これは1段落目です。<br>改行すると、次の段落になります。</code></pre>
+                    </div>
+
+                    <div>
+                    <h3>表示例</h3>
+                    <div class="help-preview">
+                        <p>これは1段落目です。</p>
+                        <p>空行を入れると、次の段落になります。</p>
+                    </div>
+                    </div>
+                </div>
+
+                <hr>
+
+                <div class="help-example">
+                    <div>
+                    <h3>入力例</h3>
+                    <pre><code>普通に改行をしたい場合は、改行したい位置に<strong>&lt;br&gt;</strong>と入力します。</code></pre>
+                    </div>
+
+                    <div>
+                    <h3>表示例</h3>
+                    <div class="help-preview">
+                        <p>普通に改行をしたい場合は、改行したい位置に<br>と入力します。</p>
+                    </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="content-card">
+            <h2>見出し</h2>
+
+            <div class="help-example">
+                <div>
+                <h3>入力例</h3>
+                <pre><code>#### TKGを作る程度の能力</code></pre>
+                </div>
+
+                <div>
+                <h3>表示例</h3>
+                <div class="help-preview">
+                    <h4>TKGを作る程度の能力</h4>
+                </div>
+                </div>
+            </div>
+            </section>
+
+            <section class="content-card">
+            <h2>太字</h2>
+
+            <div class="help-example">
+                <div>
+                <h3>入力例</h3>
+                <pre><code>これは **重要な設定** です。</code></pre>
+                </div>
+
+                <div>
+                <h3>表示例</h3>
+                <div class="help-preview">
+                    <p>これは <strong>重要な設定</strong> です。</p>
+                </div>
+                </div>
+            </div>
+            </section>
+
+            <section class="content-card">
+            <h2>斜体</h2>
+
+            <div class="help-example">
+                <div>
+                <h3>入力例</h3>
+                <pre><code>そうだ！ここに *任意の文字列* を入れれば…！</code></pre>
+                </div>
+
+                <div>
+                <h3>表示例</h3>
+                <div class="help-preview">
+                    <p>そうだ！ここに <i>任意の文字列</i> を入れれば…！</p>
+                </div>
+                </div>
+            </div>
+            </section>
+
+            <section class="content-card">
+            <h2>箇条書き</h2>
+
+            <div class="help-example">
+                <div>
+                <h3>入力例</h3>
+                <pre><code>- 古地図が好き<br>- 紅茶が好き<br>- 湿気が苦手</code></pre>
+                </div>
+
+                <div>
+                <h3>表示例</h3>
+                <div class="help-preview">
+                    <ul>
+                    <li>古地図が好き</li>
+                    <li>紅茶が好き</li>
+                    <li>湿気が苦手</li>
+                    </ul>
+                </div>
+                </div>
+            </div>
+            </section>
+
+            <section class="content-card">
+            <h2>番号付きリスト</h2>
+
+            <div class="help-example">
+                <div>
+                <h3>入力例</h3>
+                <pre><code>1. 卵を落とす<br>2. 醤油をかける<br>3. 混ぜる</code></pre>
+                </div>
+
+                <div>
+                <h3>表示例</h3>
+                <div class="help-preview">
+                    <ol>
+                    <li>卵を落とす</li>
+                    <li>醤油をかける</li>
+                    <li>混ぜる</li>
+                    </ol>
+                </div>
+                </div>
+            </div>
+            </section>
+
+            <section class="content-card">
+            <h2>引用</h2>
+
+            <div class="help-example">
+                <div>
+                <h3>入力例</h3>
+                <pre><code>&gt; （ファミチキください）</code></pre>
+                </div>
+
+                <div>
+                <h3>表示例</h3>
+                <div class="help-preview">
+                    <blockquote>
+                    <p>（ファミチキください）</p>
+                    </blockquote>
+                </div>
+                </div>
+            </div>
+            </section>
+
+            <section class="content-card">
+            <h2>リンク</h2>
+
+            <div class="help-example">
+                <div>
+                <h3>入力例</h3>
+                <pre><code>[サイト名](https://example.com)</code></pre>
+                </div>
+
+                <div>
+                <h3>表示例</h3>
+                <div class="help-preview">
+                    <p><a href="https://example.com">サイト名</a></p>
+                </div>
+                </div>
+            </div>
+
+            <p class="help-note">URLを入れるときは、なるべく https:// から始めてください。</p>
+            </section>
+
+            <section class="content-card">
+            <h2>作品名の自動置き換え</h2>
+
+            <p>作品名は、特殊な文字列を入力することで、データベースから自動で表示されます。</p>
+
+            <div class="help-example">
+                <div>
+                <h3>入力例</h3>
+                <pre><code>{{work:main6.namefull}}<br>{{work:main6.nameshort1}}<br>{{work:main6.nameshort2}}<br>{{work:main6.nameshort3}}</code></pre>
+                </div>
+
+                <div>
+                <h3>表示例</h3>
+                <div class="help-preview">
+                    <p>東西滄溟郷 ～ Red rose devil.</p>
+                    <p>東西滄溟郷</p>
+                    <p>滄溟郷</p>
+                    <p>滄</p>
+                </div>
+                </div>
+            </div>
+
+            <p class="help-note">
+                作品名が変更されたときに、ひとつずつの手直しが不要になります。<br>
+                記述方法や各作品のidは、GitHubから「json\works.json」ファイルを確認してください。
+            </p>
+            </section>
+
+            <section class="content-card">
+            <h2>避けた方がよい書き方</h2>
+
+            <ul class="help-list">
+                <li>HTMLタグを直接書かないでください（&lt;br&gt;は検証済みのためOK）。</li>
+                <li>scriptタグやiframeタグは使わないでください。</li>
+                <li>キャラクターIDは変更しないでください。</li>
+            </ul>
+            </section>
+        </div>
+        </main>
+  </div>
+
+</body>
+</html>

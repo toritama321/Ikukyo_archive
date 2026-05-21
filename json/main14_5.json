@@ -1,0 +1,50 @@
+[
+  {
+    "id": "main14_5-1",
+    "updateat": "2026/5/15",
+    "name": "宇治谷皐子",
+    "kana": "うじたにさつきこ",
+    "owner": "暁闇",
+    "originalCharacter": "宇佐見菫子",
+    "wikiurl": "",
+    "basic": {
+      "gender": "女",
+      "age": "",
+      "birthday": "5月1日",
+      "height": "155cm",
+      "weight": "秘密"
+    },
+    "personal": {
+      "job": "",
+      "hobbiesAndSkills": "オカルト研究",
+      "firstPerson": "私",
+      "secondPerson": "あなた、あだな、○○さん",
+      "thirdPerson": "",
+      "likes": "異空郷、オカルト、睡眠",
+      "dislikes": "勉強（嫌い）"
+    },
+    "world": {
+      "species": "人間",
+      "alias": [
+        ""
+      ],
+      "abilities": "超能力を扱う程度の能力",
+      "mainLocations": [
+        "不明"
+      ],
+      "dangerLevel": "",
+      "humanFriendliness": "",
+      "songs": [
+        ""
+      ]
+    },
+    "details": [
+      {
+        "title": "",
+        "body": [
+          ""
+        ]
+      }
+    ]
+  }
+]

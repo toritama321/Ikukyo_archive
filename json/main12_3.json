@@ -1,0 +1,134 @@
+[
+  {
+    "id": "main12_3-1",
+    "updateat": "",
+    "name": "",
+    "kana": "",
+    "owner": "",
+    "originalCharacter": "大ナマズ",
+    "wikiurl": "",
+
+    "basic": {
+      "gender": "",
+      "age": "",
+      "birthday": "",
+      "height": "",
+      "weight": "-"
+    },
+
+    "personal": {
+      "job": "",
+      "hobbiesAndSkills": "",
+      "firstPerson": "",
+      "secondPerson": "",
+      "thirdPerson": "",
+      "likes": "",
+      "dislikes": ""
+    },
+
+    "world": {
+      "species": "",
+      "alias": [""],
+      "abilities": "",
+      "mainLocations": [""],
+      "dangerLevel": "",
+      "humanFriendliness": "",
+      "songs": [""]
+    },
+
+    "details": [
+      {
+        "title": "",
+        "body": [""]
+      }
+    ]
+  },
+  {
+    "id": "main12_3-2",
+    "updateat": "",
+    "name": "",
+    "kana": "",
+    "owner": "",
+    "originalCharacter": "ゴリアテ人形",
+    "wikiurl": "",
+
+    "basic": {
+      "gender": "",
+      "age": "",
+      "birthday": "",
+      "height": "",
+      "weight": "-"
+    },
+
+    "personal": {
+      "job": "",
+      "hobbiesAndSkills": "",
+      "firstPerson": "",
+      "secondPerson": "",
+      "thirdPerson": "",
+      "likes": "",
+      "dislikes": ""
+    },
+
+    "world": {
+      "species": "",
+      "alias": [""],
+      "abilities": "",
+      "mainLocations": [""],
+      "dangerLevel": "",
+      "humanFriendliness": "",
+      "songs": [""]
+    },
+
+    "details": [
+      {
+        "title": "",
+        "body": [""]
+      }
+    ]
+  },
+  {
+    "id": "main12_3-3",
+    "updateat": "",
+    "name": "",
+    "kana": "",
+    "owner": "",
+    "originalCharacter": "非想天則",
+    "wikiurl": "",
+
+    "basic": {
+      "gender": "",
+      "age": "",
+      "birthday": "",
+      "height": "",
+      "weight": "-"
+    },
+
+    "personal": {
+      "job": "",
+      "hobbiesAndSkills": "",
+      "firstPerson": "",
+      "secondPerson": "",
+      "thirdPerson": "",
+      "likes": "",
+      "dislikes": ""
+    },
+
+    "world": {
+      "species": "",
+      "alias": [""],
+      "abilities": "",
+      "mainLocations": [""],
+      "dangerLevel": "",
+      "humanFriendliness": "",
+      "songs": [""]
+    },
+
+    "details": [
+      {
+        "title": "",
+        "body": [""]
+      }
+    ]
+  }
+]

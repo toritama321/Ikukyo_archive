@@ -1,0 +1,47 @@
+[
+  {
+    "id": "",
+    "updateat": "",
+    "name": "",
+    "kana": "",
+    "owner": "",
+    "originalCharacter": "",
+    "wikiurl": "",
+
+    "basic": {
+      "gender": "",
+      "age": "",
+      "birthday": "",
+      "height": "",
+      "weight": "-"
+    },
+
+    "personal": {
+      "job": "",
+      "hobbiesAndSkills": "",
+      "firstPerson": "",
+      "secondPerson": "",
+      "thirdPerson": "",
+      "likes": "",
+      "dislikes": ""
+    },
+
+    "world": {
+      "species": "",
+      "alias": [""],
+      "abilities": "",
+      "mainLocations": [""],
+      "dangerLevel": "",
+      "humanFriendliness": "",
+      "songs": [""],
+      "originalsourse":""
+    },
+
+    "details": [
+      {
+        "title": "",
+        "body": [""]
+      }
+    ]
+  }
+]

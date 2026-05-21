@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/charadetail.css">
+  <script src="js/main.js" defer></script>
+  <title>異空郷</title>
+</head>
+
+<body>
+  <div class="mobile-header">
+    <div class="mobile-title">異空郷</div>
+    <button class="menu-button" id="menuButton" aria-label="メニューを開く">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+  </div>
+
+  <div class="overlay" id="overlay"></div>
+
+  <div class="site">
+    <aside class="sidebar" id="sidebar">
+      <div class="site-title">異空郷<br>アーカイブ</div>
+
+      <nav class="nav">
+        <a href="index.html">概要</a>
+        <a href="character.html">キャラクター</a>
+        <a href="abilities.html">能力一覧</a>
+        <a href="originalsourse.html">元ネタ一覧</a>
+        <a href="places.html">地名</a>
+        <a href="works.html">作品</a>
+        <a href="links.html">関連リンク</a>
+        <a href="about.html">当サイトについて</a>
+      </nav>
+    </aside>
+
+    <main class="main">
+      <header class="hero">
+        <h1 id="characterPageTitle">キャラクター詳細</h1>
+      </header>
+
+      <div class="content">
+        <article id="characterDetail" class="character-detail">
+          <p class="loading">読み込み中...</p>
+        </article>
+
+        <div id="editModal" class="edit-modal" hidden>
+          <div class="edit-modal__overlay" id="editModalOverlay"></div>
+
+          <div class="edit-modal__panel">
+            <button type="button" class="edit-modal__close" id="editModalClose" aria-label="閉じる">
+              ×
+            </button>
+
+            <div id="editPasswordArea">
+              <h2>編集モード</h2>
+              <p>編集用パスワードを入力してください。</p>
+
+              <input
+                id="editPasswordInput"
+                class="edit-input"
+                type="password"
+                autocomplete="current-password"
+                placeholder="パスワード"
+              >
+
+              <button type="button" class="edit-button" id="editPasswordButton">
+                編集フォームを開く
+              </button>
+
+              <p id="editPasswordMessage" class="edit-message"></p>
+            </div>
+
+            <form id="characterEditForm" class="edit-form" hidden>
+              <h2>キャラクター編集</h2>
+              <p class="edit-note">
+                編集後、「JSON出力」を押すと、このキャラクターが含まれるJSONファイル全体をダウンロードします。
+                <br><a href="help.html" target="_blank" rel="noopener noreferrer">記述方法のヘルプ</a>
+              </p>
+
+              <div id="editFormFields"></div>
+
+              <div class="edit-actions">
+                <button type="button" class="edit-button" id="downloadJsonButton">
+                  JSON出力
+                </button>
+
+                <button type="button" class="edit-button edit-button--sub" id="copyJsonButton">
+                  JSONをコピー
+                </button>
+              </div>
+
+              <p id="editOutputMessage" class="edit-message"></p>
+            </form>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/dompurify/dist/purify.min.js"></script>
+    <script src="./js/charadetail.js"></script>
+  </div>
+
+</body>
+</html>
