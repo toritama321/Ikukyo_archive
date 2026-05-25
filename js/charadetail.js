@@ -1,4 +1,5 @@
 const CHARACTER_FILES_PATH = "./json/character-groups.json";
+const CHARACTER_INDEX_PATH = "./json/character-index.json";
 const WORKS_PATH = "./json/works.json";
 
 // 作品名JSON読み込み
@@ -122,6 +123,39 @@ function getValueByPath(object, path) {
 }
 
 async function findCharacterById(characterId) {
+  const characterFromIndex = await findCharacterByIdFromIndex(characterId);
+
+  if (characterFromIndex) {
+    return characterFromIndex;
+  }
+
+  return await findCharacterByIdFromGroups(characterId);
+}
+
+async function findCharacterByIdFromIndex(characterId) {
+  try {
+    const characterIndex = await fetchJson(CHARACTER_INDEX_PATH);
+    const group = characterIndex[characterId];
+
+    if (!group || !group.file) {
+      return null;
+    }
+
+    const characters = await fetchJson(group.file);
+    const character = characters.find(item => item.id === characterId);
+
+    if (!character) {
+      return null;
+    }
+
+    return setCurrentCharacter(character, group, characters);
+  } catch (error) {
+    console.warn("Character index could not be used. Falling back to full scan.", error);
+    return null;
+  }
+}
+
+async function findCharacterByIdFromGroups(characterId) {
   const files = await fetchJson(CHARACTER_FILES_PATH);
 
   for (const group of files) {
@@ -129,21 +163,25 @@ async function findCharacterById(characterId) {
     const character = characters.find(item => item.id === characterId);
 
     if (character) {
-      currentCharacter = {
-        ...character,
-        groupId: group.id,
-        groupName: group.name
-      };
-
-      currentGroup = group;
-      currentGroupCharacters = characters;
-      currentGroupFile = group.file;
-
-      return currentCharacter;
+      return setCurrentCharacter(character, group, characters);
     }
   }
 
   return null;
+}
+
+function setCurrentCharacter(character, group, characters) {
+  currentCharacter = {
+    ...character,
+    groupId: group.id,
+    groupName: group.name
+  };
+
+  currentGroup = group;
+  currentGroupCharacters = characters;
+  currentGroupFile = group.file;
+
+  return currentCharacter;
 }
 
 async function fetchJson(path) {
