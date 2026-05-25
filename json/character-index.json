@@ -1,0 +1,987 @@
+{
+    "hero1":  {
+                  "id":  "hero",
+                  "name":  "主人公",
+                  "file":  "json/hero.json"
+              },
+    "hero2":  {
+                  "id":  "hero",
+                  "name":  "主人公",
+                  "file":  "json/hero.json"
+              },
+    "hero3":  {
+                  "id":  "hero",
+                  "name":  "主人公",
+                  "file":  "json/hero.json"
+              },
+    "main6-1":  {
+                    "id":  "main6",
+                    "name":  "紅魔郷",
+                    "file":  "json/main6.json"
+                },
+    "main6-2":  {
+                    "id":  "main6",
+                    "name":  "紅魔郷",
+                    "file":  "json/main6.json"
+                },
+    "main6-3":  {
+                    "id":  "main6",
+                    "name":  "紅魔郷",
+                    "file":  "json/main6.json"
+                },
+    "main6-4":  {
+                    "id":  "main6",
+                    "name":  "紅魔郷",
+                    "file":  "json/main6.json"
+                },
+    "main6-5":  {
+                    "id":  "main6",
+                    "name":  "紅魔郷",
+                    "file":  "json/main6.json"
+                },
+    "main6-6":  {
+                    "id":  "main6",
+                    "name":  "紅魔郷",
+                    "file":  "json/main6.json"
+                },
+    "main6-7":  {
+                    "id":  "main6",
+                    "name":  "紅魔郷",
+                    "file":  "json/main6.json"
+                },
+    "main6-8":  {
+                    "id":  "main6",
+                    "name":  "紅魔郷",
+                    "file":  "json/main6.json"
+                },
+    "main6-9":  {
+                    "id":  "main6",
+                    "name":  "紅魔郷",
+                    "file":  "json/main6.json"
+                },
+    "main7-3":  {
+                    "id":  "main7",
+                    "name":  "妖々夢",
+                    "file":  "json/main7.json"
+                },
+    "main7-4":  {
+                    "id":  "main7",
+                    "name":  "妖々夢",
+                    "file":  "json/main7.json"
+                },
+    "main7-5":  {
+                    "id":  "main7",
+                    "name":  "妖々夢",
+                    "file":  "json/main7.json"
+                },
+    "main7-6":  {
+                    "id":  "main7",
+                    "name":  "妖々夢",
+                    "file":  "json/main7.json"
+                },
+    "main7-7":  {
+                    "id":  "main7",
+                    "name":  "妖々夢",
+                    "file":  "json/main7.json"
+                },
+    "main7-8":  {
+                    "id":  "main7",
+                    "name":  "妖々夢",
+                    "file":  "json/main7.json"
+                },
+    "main7-9":  {
+                    "id":  "main7",
+                    "name":  "妖々夢",
+                    "file":  "json/main7.json"
+                },
+    "main7-10":  {
+                     "id":  "main7",
+                     "name":  "妖々夢",
+                     "file":  "json/main7.json"
+                 },
+    "main7-11":  {
+                     "id":  "main7",
+                     "name":  "妖々夢",
+                     "file":  "json/main7.json"
+                 },
+    "main7_5-1":  {
+                      "id":  "main7_5",
+                      "name":  "萃夢想",
+                      "file":  "json/main7_5.json"
+                  },
+    "main8-1":  {
+                    "id":  "main8",
+                    "name":  "永夜抄",
+                    "file":  "json/main8.json"
+                },
+    "main8-2":  {
+                    "id":  "main8",
+                    "name":  "永夜抄",
+                    "file":  "json/main8.json"
+                },
+    "main8-3":  {
+                    "id":  "main8",
+                    "name":  "永夜抄",
+                    "file":  "json/main8.json"
+                },
+    "main8-4":  {
+                    "id":  "main8",
+                    "name":  "永夜抄",
+                    "file":  "json/main8.json"
+                },
+    "main8-5":  {
+                    "id":  "main8",
+                    "name":  "永夜抄",
+                    "file":  "json/main8.json"
+                },
+    "main8-6":  {
+                    "id":  "main8",
+                    "name":  "永夜抄",
+                    "file":  "json/main8.json"
+                },
+    "main8-7":  {
+                    "id":  "main8",
+                    "name":  "永夜抄",
+                    "file":  "json/main8.json"
+                },
+    "main8-8":  {
+                    "id":  "main8",
+                    "name":  "永夜抄",
+                    "file":  "json/main8.json"
+                },
+    "main9-1":  {
+                    "id":  "main9",
+                    "name":  "花映塚",
+                    "file":  "json/main9.json"
+                },
+    "main9-2":  {
+                    "id":  "main9",
+                    "name":  "花映塚",
+                    "file":  "json/main9.json"
+                },
+    "main9-3":  {
+                    "id":  "main9",
+                    "name":  "花映塚",
+                    "file":  "json/main9.json"
+                },
+    "main9-4":  {
+                    "id":  "main9",
+                    "name":  "花映塚",
+                    "file":  "json/main9.json"
+                },
+    "main10-1":  {
+                     "id":  "main10",
+                     "name":  "風神録",
+                     "file":  "json/main10.json"
+                 },
+    "main10-2":  {
+                     "id":  "main10",
+                     "name":  "風神録",
+                     "file":  "json/main10.json"
+                 },
+    "main10-3":  {
+                     "id":  "main10",
+                     "name":  "風神録",
+                     "file":  "json/main10.json"
+                 },
+    "main10-4":  {
+                     "id":  "main10",
+                     "name":  "風神録",
+                     "file":  "json/main10.json"
+                 },
+    "main10-5":  {
+                     "id":  "main10",
+                     "name":  "風神録",
+                     "file":  "json/main10.json"
+                 },
+    "main10-7":  {
+                     "id":  "main10",
+                     "name":  "風神録",
+                     "file":  "json/main10.json"
+                 },
+    "main10-8":  {
+                     "id":  "main10",
+                     "name":  "風神録",
+                     "file":  "json/main10.json"
+                 },
+    "main10-9":  {
+                     "id":  "main10",
+                     "name":  "風神録",
+                     "file":  "json/main10.json"
+                 },
+    "main10_5-1":  {
+                       "id":  "main10_5",
+                       "name":  "緋想天",
+                       "file":  "json/main10_5.json"
+                   },
+    "main10_5-2":  {
+                       "id":  "main10_5",
+                       "name":  "緋想天",
+                       "file":  "json/main10_5.json"
+                   },
+    "main11-1":  {
+                     "id":  "main11",
+                     "name":  "地霊殿",
+                     "file":  "json/main11.json"
+                 },
+    "main11-2":  {
+                     "id":  "main11",
+                     "name":  "地霊殿",
+                     "file":  "json/main11.json"
+                 },
+    "main11-3":  {
+                     "id":  "main11",
+                     "name":  "地霊殿",
+                     "file":  "json/main11.json"
+                 },
+    "main11-4":  {
+                     "id":  "main11",
+                     "name":  "地霊殿",
+                     "file":  "json/main11.json"
+                 },
+    "main11-5":  {
+                     "id":  "main11",
+                     "name":  "地霊殿",
+                     "file":  "json/main11.json"
+                 },
+    "main11-6":  {
+                     "id":  "main11",
+                     "name":  "地霊殿",
+                     "file":  "json/main11.json"
+                 },
+    "main11-7":  {
+                     "id":  "main11",
+                     "name":  "地霊殿",
+                     "file":  "json/main11.json"
+                 },
+    "main11-8":  {
+                     "id":  "main11",
+                     "name":  "地霊殿",
+                     "file":  "json/main11.json"
+                 },
+    "main12_3-1":  {
+                       "id":  "main12_3",
+                       "name":  "非想天則",
+                       "file":  "json/main12_3.json"
+                   },
+    "main12_3-2":  {
+                       "id":  "main12_3",
+                       "name":  "非想天則",
+                       "file":  "json/main12_3.json"
+                   },
+    "main12_3-3":  {
+                       "id":  "main12_3",
+                       "name":  "非想天則",
+                       "file":  "json/main12_3.json"
+                   },
+    "main12_5-1":  {
+                       "id":  "main12_5",
+                       "name":  "ダブルスポイラー",
+                       "file":  "json/main12_5.json"
+                   },
+    "main12-1":  {
+                     "id":  "main12",
+                     "name":  "星蓮船",
+                     "file":  "json/main12.json"
+                 },
+    "main12-2":  {
+                     "id":  "main12",
+                     "name":  "星蓮船",
+                     "file":  "json/main12.json"
+                 },
+    "main12-3":  {
+                     "id":  "main12",
+                     "name":  "星蓮船",
+                     "file":  "json/main12.json"
+                 },
+    "main12-4":  {
+                     "id":  "main12",
+                     "name":  "星蓮船",
+                     "file":  "json/main12.json"
+                 },
+    "main12-5":  {
+                     "id":  "main12",
+                     "name":  "星蓮船",
+                     "file":  "json/main12.json"
+                 },
+    "main12-6":  {
+                     "id":  "main12",
+                     "name":  "星蓮船",
+                     "file":  "json/main12.json"
+                 },
+    "main12-7":  {
+                     "id":  "main12",
+                     "name":  "星蓮船",
+                     "file":  "json/main12.json"
+                 },
+    "main13-1":  {
+                     "id":  "main13",
+                     "name":  "神霊廟",
+                     "file":  "json/main13.json"
+                 },
+    "main13-2":  {
+                     "id":  "main13",
+                     "name":  "神霊廟",
+                     "file":  "json/main13.json"
+                 },
+    "main13-3":  {
+                     "id":  "main13",
+                     "name":  "神霊廟",
+                     "file":  "json/main13.json"
+                 },
+    "main13-4":  {
+                     "id":  "main13",
+                     "name":  "神霊廟",
+                     "file":  "json/main13.json"
+                 },
+    "main13-5":  {
+                     "id":  "main13",
+                     "name":  "神霊廟",
+                     "file":  "json/main13.json"
+                 },
+    "main13-6":  {
+                     "id":  "main13",
+                     "name":  "神霊廟",
+                     "file":  "json/main13.json"
+                 },
+    "main13-7":  {
+                     "id":  "main13",
+                     "name":  "神霊廟",
+                     "file":  "json/main13.json"
+                 },
+    "main13_5-1":  {
+                       "id":  "main13_5",
+                       "name":  "心綺楼",
+                       "file":  "json/main13_5.json"
+                   },
+    "main14-1":  {
+                     "id":  "main14",
+                     "name":  "輝針城",
+                     "file":  "json/main14.json"
+                 },
+    "main14-2":  {
+                     "id":  "main14",
+                     "name":  "輝針城",
+                     "file":  "json/main14.json"
+                 },
+    "main14-3":  {
+                     "id":  "main14",
+                     "name":  "輝針城",
+                     "file":  "json/main14.json"
+                 },
+    "main14-4":  {
+                     "id":  "main14",
+                     "name":  "輝針城",
+                     "file":  "json/main14.json"
+                 },
+    "main14-5":  {
+                     "id":  "main14",
+                     "name":  "輝針城",
+                     "file":  "json/main14.json"
+                 },
+    "main14-6":  {
+                     "id":  "main14",
+                     "name":  "輝針城",
+                     "file":  "json/main14.json"
+                 },
+    "main14-7":  {
+                     "id":  "main14",
+                     "name":  "輝針城",
+                     "file":  "json/main14.json"
+                 },
+    "main14-8":  {
+                     "id":  "main14",
+                     "name":  "輝針城",
+                     "file":  "json/main14.json"
+                 },
+    "main14_5-1":  {
+                       "id":  "main14_5",
+                       "name":  "深秘録",
+                       "file":  "json/main14_5.json"
+                   },
+    "main15-1":  {
+                     "id":  "main15",
+                     "name":  "紺珠伝",
+                     "file":  "json/main15.json"
+                 },
+    "main15-2":  {
+                     "id":  "main15",
+                     "name":  "紺珠伝",
+                     "file":  "json/main15.json"
+                 },
+    "main15-3":  {
+                     "id":  "main15",
+                     "name":  "紺珠伝",
+                     "file":  "json/main15.json"
+                 },
+    "main15-4":  {
+                     "id":  "main15",
+                     "name":  "紺珠伝",
+                     "file":  "json/main15.json"
+                 },
+    "main15-5":  {
+                     "id":  "main15",
+                     "name":  "紺珠伝",
+                     "file":  "json/main15.json"
+                 },
+    "main15-6":  {
+                     "id":  "main15",
+                     "name":  "紺珠伝",
+                     "file":  "json/main15.json"
+                 },
+    "main15-7":  {
+                     "id":  "main15",
+                     "name":  "紺珠伝",
+                     "file":  "json/main15.json"
+                 },
+    "main15_5-1":  {
+                       "id":  "main15_5",
+                       "name":  "憑依華",
+                       "file":  "json/main15_5.json"
+                   },
+    "main15_5-2":  {
+                       "id":  "main15_5",
+                       "name":  "憑依華",
+                       "file":  "json/main15_5.json"
+                   },
+    "main16-1":  {
+                     "id":  "main16",
+                     "name":  "天空璋",
+                     "file":  "json/main16.json"
+                 },
+    "main16-2":  {
+                     "id":  "main16",
+                     "name":  "天空璋",
+                     "file":  "json/main16.json"
+                 },
+    "main16-3":  {
+                     "id":  "main16",
+                     "name":  "天空璋",
+                     "file":  "json/main16.json"
+                 },
+    "main16-4":  {
+                     "id":  "main16",
+                     "name":  "天空璋",
+                     "file":  "json/main16.json"
+                 },
+    "main16-5":  {
+                     "id":  "main16",
+                     "name":  "天空璋",
+                     "file":  "json/main16.json"
+                 },
+    "main16-6":  {
+                     "id":  "main16",
+                     "name":  "天空璋",
+                     "file":  "json/main16.json"
+                 },
+    "main16-7":  {
+                     "id":  "main16",
+                     "name":  "天空璋",
+                     "file":  "json/main16.json"
+                 },
+    "main17-1":  {
+                     "id":  "main17",
+                     "name":  "鬼形獣",
+                     "file":  "json/main17.json"
+                 },
+    "main17-2":  {
+                     "id":  "main17",
+                     "name":  "鬼形獣",
+                     "file":  "json/main17.json"
+                 },
+    "main17-3":  {
+                     "id":  "main17",
+                     "name":  "鬼形獣",
+                     "file":  "json/main17.json"
+                 },
+    "main17-4":  {
+                     "id":  "main17",
+                     "name":  "鬼形獣",
+                     "file":  "json/main17.json"
+                 },
+    "main17-5":  {
+                     "id":  "main17",
+                     "name":  "鬼形獣",
+                     "file":  "json/main17.json"
+                 },
+    "main17-6":  {
+                     "id":  "main17",
+                     "name":  "鬼形獣",
+                     "file":  "json/main17.json"
+                 },
+    "main17-7":  {
+                     "id":  "main17",
+                     "name":  "鬼形獣",
+                     "file":  "json/main17.json"
+                 },
+    "main17_5-1":  {
+                       "id":  "main17_5",
+                       "name":  "剛欲異聞",
+                       "file":  "json/main17_5.json"
+                   },
+    "main18-1":  {
+                     "id":  "main18",
+                     "name":  "虹龍洞",
+                     "file":  "json/main18.json"
+                 },
+    "main18-2":  {
+                     "id":  "main18",
+                     "name":  "虹龍洞",
+                     "file":  "json/main18.json"
+                 },
+    "main18-3":  {
+                     "id":  "main18",
+                     "name":  "虹龍洞",
+                     "file":  "json/main18.json"
+                 },
+    "main18-4":  {
+                     "id":  "main18",
+                     "name":  "虹龍洞",
+                     "file":  "json/main18.json"
+                 },
+    "main18-5":  {
+                     "id":  "main18",
+                     "name":  "虹龍洞",
+                     "file":  "json/main18.json"
+                 },
+    "main18-6":  {
+                     "id":  "main18",
+                     "name":  "虹龍洞",
+                     "file":  "json/main18.json"
+                 },
+    "main18-7":  {
+                     "id":  "main18",
+                     "name":  "虹龍洞",
+                     "file":  "json/main18.json"
+                 },
+    "main18-8":  {
+                     "id":  "main18",
+                     "name":  "虹龍洞",
+                     "file":  "json/main18.json"
+                 },
+    "main19-1":  {
+                     "id":  "main19",
+                     "name":  "獣王園",
+                     "file":  "json/main19.json"
+                 },
+    "main19-2":  {
+                     "id":  "main19",
+                     "name":  "獣王園",
+                     "file":  "json/main19.json"
+                 },
+    "main19-3":  {
+                     "id":  "main19",
+                     "name":  "獣王園",
+                     "file":  "json/main19.json"
+                 },
+    "main19-4":  {
+                     "id":  "main19",
+                     "name":  "獣王園",
+                     "file":  "json/main19.json"
+                 },
+    "main19-5":  {
+                     "id":  "main19",
+                     "name":  "獣王園",
+                     "file":  "json/main19.json"
+                 },
+    "main20-1":  {
+                     "id":  "main20",
+                     "name":  "錦上京",
+                     "file":  "json/main20.json"
+                 },
+    "main20-2":  {
+                     "id":  "main20",
+                     "name":  "錦上京",
+                     "file":  "json/main20.json"
+                 },
+    "main20-3":  {
+                     "id":  "main20",
+                     "name":  "錦上京",
+                     "file":  "json/main20.json"
+                 },
+    "main20-4":  {
+                     "id":  "main20",
+                     "name":  "錦上京",
+                     "file":  "json/main20.json"
+                 },
+    "main20-5":  {
+                     "id":  "main20",
+                     "name":  "錦上京",
+                     "file":  "json/main20.json"
+                 },
+    "main20-6":  {
+                     "id":  "main20",
+                     "name":  "錦上京",
+                     "file":  "json/main20.json"
+                 },
+    "book1-1":  {
+                    "id":  "book1",
+                    "name":  "秘封倶楽部",
+                    "file":  "json/book1.json"
+                },
+    "book1-2":  {
+                    "id":  "book1",
+                    "name":  "秘封倶楽部",
+                    "file":  "json/book1.json"
+                },
+    "book2-1":  {
+                    "id":  "book2",
+                    "name":  "香霖堂",
+                    "file":  "json/book2.json"
+                },
+    "book2-2":  {
+                    "id":  "book2",
+                    "name":  "香霖堂",
+                    "file":  "json/book2.json"
+                },
+    "book2-3":  {
+                    "id":  "book2",
+                    "name":  "香霖堂",
+                    "file":  "json/book2.json"
+                },
+    "book2-4":  {
+                    "id":  "book2",
+                    "name":  "香霖堂",
+                    "file":  "json/book2.json"
+                },
+    "book3-1":  {
+                    "id":  "book3",
+                    "name":  "三月精",
+                    "file":  "json/book3.json"
+                },
+    "book3-2":  {
+                    "id":  "book3",
+                    "name":  "三月精",
+                    "file":  "json/book3.json"
+                },
+    "book3-3":  {
+                    "id":  "book3",
+                    "name":  "三月精",
+                    "file":  "json/book3.json"
+                },
+    "book3-4":  {
+                    "id":  "book3",
+                    "name":  "三月精",
+                    "file":  "json/book3.json"
+                },
+    "book3-5":  {
+                    "id":  "book3",
+                    "name":  "三月精",
+                    "file":  "json/book3.json"
+                },
+    "book8-1":  {
+                    "id":  "book8",
+                    "name":  "求聞史紀",
+                    "file":  "json/book8.json"
+                },
+    "book9-1":  {
+                    "id":  "book9",
+                    "name":  "儚月抄",
+                    "file":  "json/book9.json"
+                },
+    "book9-2":  {
+                    "id":  "book9",
+                    "name":  "儚月抄",
+                    "file":  "json/book9.json"
+                },
+    "book9-3":  {
+                    "id":  "book9",
+                    "name":  "儚月抄",
+                    "file":  "json/book9.json"
+                },
+    "book9-4":  {
+                    "id":  "book9",
+                    "name":  "儚月抄",
+                    "file":  "json/book9.json"
+                },
+    "book13-1":  {
+                     "id":  "book13",
+                     "name":  "茨歌仙",
+                     "file":  "json/book13.json"
+                 },
+    "book15-1":  {
+                     "id":  "book15",
+                     "name":  "鈴奈庵",
+                     "file":  "json/book15.json"
+                 },
+    "book15-2":  {
+                     "id":  "book15",
+                     "name":  "鈴奈庵",
+                     "file":  "json/book15.json"
+                 },
+    "book15-3":  {
+                     "id":  "book15",
+                     "name":  "鈴奈庵",
+                     "file":  "json/book15.json"
+                 },
+    "book17-1":  {
+                     "id":  "book17",
+                     "name":  "智霊奇伝",
+                     "file":  "json/book17.json"
+                 },
+    "book18-1":  {
+                     "id":  "book18",
+                     "name":  "酔蝶華",
+                     "file":  "json/book18.json"
+                 },
+    "other1-7":  {
+                     "id":  "other1",
+                     "name":  "設定のみ",
+                     "file":  "json/other1.json"
+                 },
+    "other1-8":  {
+                     "id":  "other1",
+                     "name":  "設定のみ",
+                     "file":  "json/other1.json"
+                 },
+    "other1-9":  {
+                     "id":  "other1",
+                     "name":  "設定のみ",
+                     "file":  "json/other1.json"
+                 },
+    "other1-11":  {
+                      "id":  "other1",
+                      "name":  "設定のみ",
+                      "file":  "json/other1.json"
+                  },
+    "other1-14":  {
+                      "id":  "other1",
+                      "name":  "設定のみ",
+                      "file":  "json/other1.json"
+                  },
+    "other2-1":  {
+                     "id":  "other2",
+                     "name":  "オリジナル",
+                     "file":  "json/other2.json"
+                 },
+    "other2-2":  {
+                     "id":  "other2",
+                     "name":  "オリジナル",
+                     "file":  "json/other2.json"
+                 },
+    "other2-4":  {
+                     "id":  "other2",
+                     "name":  "オリジナル",
+                     "file":  "json/other2.json"
+                 },
+    "old1-1":  {
+                   "id":  "old1",
+                   "name":  "靈異伝",
+                   "file":  "json/old1.json"
+               },
+    "old1-2":  {
+                   "id":  "old1",
+                   "name":  "靈異伝",
+                   "file":  "json/old1.json"
+               },
+    "old1-3":  {
+                   "id":  "old1",
+                   "name":  "靈異伝",
+                   "file":  "json/old1.json"
+               },
+    "old1-4":  {
+                   "id":  "old1",
+                   "name":  "靈異伝",
+                   "file":  "json/old1.json"
+               },
+    "old1-5":  {
+                   "id":  "old1",
+                   "name":  "靈異伝",
+                   "file":  "json/old1.json"
+               },
+    "old1-7":  {
+                   "id":  "old1",
+                   "name":  "靈異伝",
+                   "file":  "json/old1.json"
+               },
+    "old1-8":  {
+                   "id":  "old1",
+                   "name":  "靈異伝",
+                   "file":  "json/old1.json"
+               },
+    "old1-9":  {
+                   "id":  "old1",
+                   "name":  "靈異伝",
+                   "file":  "json/old1.json"
+               },
+    "old2-1":  {
+                   "id":  "old2",
+                   "name":  "封魔録",
+                   "file":  "json/old2.json"
+               },
+    "old2-2":  {
+                   "id":  "old2",
+                   "name":  "封魔録",
+                   "file":  "json/old2.json"
+               },
+    "old2-3":  {
+                   "id":  "old2",
+                   "name":  "封魔録",
+                   "file":  "json/old2.json"
+               },
+    "old2-4":  {
+                   "id":  "old2",
+                   "name":  "封魔録",
+                   "file":  "json/old2.json"
+               },
+    "old2-5":  {
+                   "id":  "old2",
+                   "name":  "封魔録",
+                   "file":  "json/old2.json"
+               },
+    "old2-6":  {
+                   "id":  "old2",
+                   "name":  "封魔録",
+                   "file":  "json/old2.json"
+               },
+    "old2-7":  {
+                   "id":  "old2",
+                   "name":  "封魔録",
+                   "file":  "json/old2.json"
+               },
+    "old2-8":  {
+                   "id":  "old2",
+                   "name":  "封魔録",
+                   "file":  "json/old2.json"
+               },
+    "old3-1":  {
+                   "id":  "old3",
+                   "name":  "夢時空",
+                   "file":  "json/old3.json"
+               },
+    "old3-2":  {
+                   "id":  "old3",
+                   "name":  "夢時空",
+                   "file":  "json/old3.json"
+               },
+    "old3-3":  {
+                   "id":  "old3",
+                   "name":  "夢時空",
+                   "file":  "json/old3.json"
+               },
+    "old3-4":  {
+                   "id":  "old3",
+                   "name":  "夢時空",
+                   "file":  "json/old3.json"
+               },
+    "old3-5":  {
+                   "id":  "old3",
+                   "name":  "夢時空",
+                   "file":  "json/old3.json"
+               },
+    "old3-6":  {
+                   "id":  "old3",
+                   "name":  "夢時空",
+                   "file":  "json/old3.json"
+               },
+    "old3-7":  {
+                   "id":  "old3",
+                   "name":  "夢時空",
+                   "file":  "json/old3.json"
+               },
+    "old4-1":  {
+                   "id":  "old4",
+                   "name":  "幻想郷",
+                   "file":  "json/old4.json"
+               },
+    "old4-2":  {
+                   "id":  "old4",
+                   "name":  "幻想郷",
+                   "file":  "json/old4.json"
+               },
+    "old4-3":  {
+                   "id":  "old4",
+                   "name":  "幻想郷",
+                   "file":  "json/old4.json"
+               },
+    "old4-4":  {
+                   "id":  "old4",
+                   "name":  "幻想郷",
+                   "file":  "json/old4.json"
+               },
+    "old4-5":  {
+                   "id":  "old4",
+                   "name":  "幻想郷",
+                   "file":  "json/old4.json"
+               },
+    "old4-6":  {
+                   "id":  "old4",
+                   "name":  "幻想郷",
+                   "file":  "json/old4.json"
+               },
+    "old4-7":  {
+                   "id":  "old4",
+                   "name":  "幻想郷",
+                   "file":  "json/old4.json"
+               },
+    "old5-1":  {
+                   "id":  "old5",
+                   "name":  "怪綺談",
+                   "file":  "json/old5.json"
+               },
+    "old5-2":  {
+                   "id":  "old5",
+                   "name":  "怪綺談",
+                   "file":  "json/old5.json"
+               },
+    "old5-3":  {
+                   "id":  "old5",
+                   "name":  "怪綺談",
+                   "file":  "json/old5.json"
+               },
+    "old5-4":  {
+                   "id":  "old5",
+                   "name":  "怪綺談",
+                   "file":  "json/old5.json"
+               },
+    "old5-5":  {
+                   "id":  "old5",
+                   "name":  "怪綺談",
+                   "file":  "json/old5.json"
+               },
+    "old5-6":  {
+                   "id":  "old5",
+                   "name":  "怪綺談",
+                   "file":  "json/old5.json"
+               },
+    "old5-7":  {
+                   "id":  "old5",
+                   "name":  "怪綺談",
+                   "file":  "json/old5.json"
+               },
+    "old5-8":  {
+                   "id":  "old5",
+                   "name":  "怪綺談",
+                   "file":  "json/old5.json"
+               },
+    "old5-9":  {
+                   "id":  "old5",
+                   "name":  "怪綺談",
+                   "file":  "json/old5.json"
+               },
+    "old5-10":  {
+                    "id":  "old5",
+                    "name":  "怪綺談",
+                    "file":  "json/old5.json"
+                },
+    "old5-11":  {
+                    "id":  "old5",
+                    "name":  "怪綺談",
+                    "file":  "json/old5.json"
+                },
+    "old5-12":  {
+                    "id":  "old5",
+                    "name":  "怪綺談",
+                    "file":  "json/old5.json"
+                },
+    "old5-13":  {
+                    "id":  "old5",
+                    "name":  "怪綺談",
+                    "file":  "json/old5.json"
+                },
+    "old5-14":  {
+                    "id":  "old5",
+                    "name":  "怪綺談",
+                    "file":  "json/old5.json"
+                }
+}
