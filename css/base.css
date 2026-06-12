@@ -119,6 +119,7 @@ a {
 .content {
   padding: 48px 64px 80px;
   max-width: 1100px;
+  line-height: 3px;
 }
 
 .section {
@@ -474,6 +475,7 @@ rt {
   .section {
     padding: 10px 5px;
     margin-bottom: 20px;
+    line-height: 3px;
   }
 
   .section h2 {
